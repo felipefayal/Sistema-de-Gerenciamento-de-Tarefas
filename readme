@@ -14,7 +14,8 @@ Este é um projeto simples de um Sistema de Gerenciamento de Tarefas desenvolvid
 
 ## 📸 Screenshots
 
-![Screenshot da Aplicação](IMG/CapturadeTela.png)
+![Screenshot da Aplicação]
+IMG/CapturadeTela.png
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -28,6 +29,7 @@ Este sistema foi desenvolvido como um exercício prático para a disciplina de *
 ## 🧑‍💻 Autor
 
 * **[ Felipe Fayal ]** - [ felipefayal ](https://github.com/felipefayal) 
+
 ## 📋 Pré-requisitos
 
 Para executar este projeto, você precisa ter o Python 3 instalado em seu sistema. Como Tkinter é parte da biblioteca padrão do Python, nenhuma instalação adicional é necessária.
@@ -61,5 +63,6 @@ A janela da aplicação deverá abrir, e você poderá começar a gerenciar suas
 ## ⚖️ Licença
 
 Este projeto está licenciado sob a [Creative Commons Atribuição-NãoComercial 4.0 Internacional](http://creativecommons.org/licenses/by-nc/4.0/).
+
 
 ![Licença: CC BY-NC 4.0](https://img.shields.io/badge/Licença-CC%20BY--NC%204.0-lightgrey.svg)
