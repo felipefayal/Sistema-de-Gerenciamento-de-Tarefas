@@ -60,6 +60,4 @@ A janela da aplicação deverá abrir, e você poderá começar a gerenciar suas
 
 ## ⚖️ Licença
 
-Este projeto está licenciado sob a [Creative Commons Atribuição-NãoComercial 4.0 Internacional](http://creativecommons.org/licenses/by-nc/4.0/).
-
-![Licença: CC BY-NC 4.0](https://img.shields.io/badge/Licença-CC%20BY--NC%204.0-lightgrey.svg)
+Este projeto é licenciado sob a **Licença MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
